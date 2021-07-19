@@ -9,6 +9,7 @@
 - Implement this module in your project and the module will be built. It may takes a little time for building.
 - If you want to update the module with the model that has higher accuracy, copy the model file and replace in path "HARModule\android_har\src\main\assets". After that, repeat the above steps.
 ## Healthcare App
+- Follow the tutorial at page "https://firebase.google.com/docs/android/setup" in order to add Firebase to the project
 - Open folder "HealthcareApp" with Android Studio and build APK file.
 ## HAR model
 - Open file "model/HAR_LSTM_Model.ipynb" with Google Colab.
